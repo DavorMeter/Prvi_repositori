@@ -9,6 +9,7 @@ namespace ConsoleApplication1_dm_labvj
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
